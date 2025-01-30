@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+//small change
 #define MAX 100
 #define OFFICER_PASSWORD "admin123"
 #define RESET_PASSWORD "reset456"
